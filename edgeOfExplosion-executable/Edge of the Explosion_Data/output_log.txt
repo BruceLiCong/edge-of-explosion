@@ -1,0 +1,22 @@
+Initialize engine version: 4.0.1f2
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshim.dll 9.18.13.1407]
+    Renderer: Intel(R) HD Graphics
+    Vendor:   Intel
+    VRAM:     880 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Efe\Desktop\github\edge of explosion\edgeOfExplosion-executable\Edge of the Explosion_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Efe\Desktop\github\edge of explosion\edgeOfExplosion-executable\Edge of the Explosion_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Efe\Desktop\github\edge of explosion\edgeOfExplosion-executable\Edge of the Explosion_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Efe\Desktop\github\edge of explosion\edgeOfExplosion-executable\Edge of the Explosion_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Efe\Desktop\github\edge of explosion\edgeOfExplosion-executable\Edge of the Explosion_Data\Managed\GoKit.dll (this message is harmless)
+Loading C:\Users\Efe\Desktop\github\edge of explosion\edgeOfExplosion-executable\Edge of the Explosion_Data\Managed\GoKit.dll into Unity Child Domain
+- Completed reload, in  0.062 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 121. Operation took 4.691400 ms.
